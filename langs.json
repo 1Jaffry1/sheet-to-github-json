@@ -8,28 +8,28 @@
   },
   {
     "id": 2,
-    "name": "????",
+    "name": "اردو",
     "code": "ur",
     "direction": "rtl",
     "icon": "https://..."
   },
   {
     "id": 3,
-    "name": "?????",
+    "name": "فارسی",
     "code": "fa",
     "direction": "rtl",
     "icon": "..."
   },
   {
     "id": 4,
-    "name": "?????",
+    "name": "عربِي",
     "code": "ar",
     "direction": "rtl",
     "icon": "..."
   },
   {
     "id": 5,
-    "name": "????",
+    "name": "سندی",
     "code": "sn",
     "direction": "rtl",
     "icon": ".."
