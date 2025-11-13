@@ -1,0 +1,12 @@
+{
+  "signup_title": "User Info",
+  "gender": "Gender",
+  "maturity": "Mature?",
+  "immature": "immature",
+  "mature": "Yes",
+  "full_name": "Name",
+  "p_user_id_1": "name",
+  "status": "status",
+  "umrah_type": "umrah type",
+  "religous_authority": "religous authority"
+}
