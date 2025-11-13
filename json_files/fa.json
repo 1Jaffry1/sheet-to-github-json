@@ -12,6 +12,8 @@
   "status": "",
   "umrah_type": "نوع عمره",
   "religous_authority": "مرجع تقلید",
+  "immature": "نابالغ",
+  "maturity": "بالغ؟",
   "umrah_mufradah": "",
   "personal": "شخصی",
   "proxy": "نیابتی",
@@ -22,8 +24,6 @@
   "read_terms_and_conditions": "",
   "additional_info": "",
   "non_baligh_accompanying_text": "",
-  "immature": "نابالغ",
-  "maturity": "بالغ؟",
   "mumayyiz_def": "",
   "network_error": "خطا در اتصال به شبکه"
 }
