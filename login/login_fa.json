@@ -1,4 +1,5 @@
 {
+  "DONT TOUCH ROW 1, SCRIPT WILL BREAK": "",
   "signup_title": "ثبت اطلاعات",
   "gender": "جنسیت",
   "maturity": "بالغ؟",
@@ -13,5 +14,8 @@
   "personal": "شخصی",
   "proxy": "نیابتی",
   "first_umrah_inlife": "اولین عمره در ماه جاری؟",
-  "momayz": "ممیز"
+  "momayz": "ممیز",
+  "title_to_show_user": "",
+  "next_btn": "",
+  "app_does_what": ""
 }

@@ -1,4 +1,5 @@
 {
+  "DONT TOUCH ROW 1, SCRIPT WILL BREAK": "",
   "signup_title": "",
   "gender": "",
   "maturity": "",
@@ -10,8 +11,11 @@
   "umrah_type": "",
   "religous_authority": "",
   "umrah_mufradah": "",
-  "personal": "a",
+  "personal": "",
   "proxy": "",
   "first_umrah_inlife": "",
-  "momayz": ""
+  "momayz": "",
+  "title_to_show_user": "",
+  "next_btn": "",
+  "app_does_what": ""
 }
