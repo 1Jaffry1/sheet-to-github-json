@@ -1,0 +1,45 @@
+{
+  "version": "2025-11-13T16:29:05.825Z",
+  "sheets": {
+    "seestani": {
+      "prefix": "seestani",
+      "folder": "seestani",
+      "langs": [
+        "en",
+        "ur",
+        "fa",
+        "ar",
+        "sn",
+        "notes"
+      ],
+      "files": [
+        "seestani/seestani_en.json",
+        "seestani/seestani_ur.json",
+        "seestani/seestani_fa.json",
+        "seestani/seestani_ar.json",
+        "seestani/seestani_sn.json",
+        "seestani/seestani_notes.json"
+      ]
+    },
+    "login": {
+      "prefix": "login",
+      "folder": "login",
+      "langs": [
+        "en",
+        "ur",
+        "fa",
+        "ar",
+        "sn",
+        "notes"
+      ],
+      "files": [
+        "login/login_en.json",
+        "login/login_ur.json",
+        "login/login_fa.json",
+        "login/login_ar.json",
+        "login/login_sn.json",
+        "login/login_notes.json"
+      ]
+    }
+  }
+}

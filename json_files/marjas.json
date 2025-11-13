@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Seestani",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbNt_0EV-g_z53C3-oK0rYkce6Y9Z3HjBxCw&s",
+    "en": "Sistani",
+    "fa": "سیستانی",
+    "ar": "السیستاني",
+    "ur": "",
+    "sn": ""
+  },
+  {
+    "name": "Khamenei",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFZXQRWLQwsvMh_iNrfMyk_odUamCFukrBw&s",
+    "en": "Khamenei",
+    "fa": "خامنه‌ای",
+    "ar": "الخامنئي",
+    "ur": "",
+    "sn": ""
+  }
+]
