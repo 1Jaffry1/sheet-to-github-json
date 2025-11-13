@@ -7,6 +7,8 @@
   "signup_title": "ثبت اطلاعات",
   "gender": "جنسیت",
   "maturity": "بالغ؟",
+  "immature": "نابالغ",
+  "mature": "بالغ",
   "full_name": "نام ",
   "p_user_id_1": "",
   "status": "",
@@ -22,7 +24,6 @@
   "read_terms_and_conditions": "",
   "additional_info": "",
   "non_baligh_accompanying_text": "",
-  "immature": "نابالغ",
   "mumayyiz_def": "",
   "network_error": "خطا در اتصال به شبکه"
 }

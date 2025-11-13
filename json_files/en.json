@@ -7,6 +7,8 @@
   "signup_title": "User Info",
   "gender": "Gender",
   "maturity": "Baligh?",
+  "immature": "Non-Baligh",
+  "mature": "Baligh",
   "full_name": "Name",
   "p_user_id_1": "name",
   "status": "status",
@@ -22,7 +24,6 @@
   "read_terms_and_conditions": "i have read and understood the terms and conditions",
   "additional_info": "additional info",
   "non_baligh_accompanying_text": "is there is a non baligh person accompanying you whom you want to perform umrah as well",
-  "immature": "Non-Baligh",
   "mumayyiz_def": "mumayyiz is one who has a sense of right and wrong. Non mumayyiz is one who does not yet have a sense of right and wrong",
   "network_error": "Network Error"
 }
