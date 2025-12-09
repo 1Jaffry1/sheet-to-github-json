@@ -2,5 +2,6 @@
   "a": "",
   "logout": "Logout",
   "language": "Language",
-  "change_reference": ""
+  "change_reference": "Change Reference",
+  "changed_successfully": ""
 }
