@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-09T01:14:22.654Z",
+  "version": "2025-12-09T01:17:34.253Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -19,6 +19,36 @@
         "seestani/seestani_ar.json",
         "seestani/seestani_sn.json",
         "seestani/seestani_notes.json"
+      ]
+    },
+    "settings": {
+      "prefix": "settings",
+      "folder": "common",
+      "langs": [
+        "ur"
+      ],
+      "files": [
+        "common/settings_ur.json"
+      ]
+    },
+    "about": {
+      "prefix": "about",
+      "folder": "common",
+      "langs": [
+        "ur"
+      ],
+      "files": [
+        "common/about_ur.json"
+      ]
+    },
+    "common": {
+      "prefix": "common",
+      "folder": "common",
+      "langs": [
+        "ur"
+      ],
+      "files": [
+        "common/common_ur.json"
       ]
     },
     "login": {
