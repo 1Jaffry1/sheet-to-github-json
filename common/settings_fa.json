@@ -3,5 +3,6 @@
   "logout": "خروج",
   "language": "زبان",
   "change_reference": "تغییر مرجع",
-  "changed_successfully": "با موفقیت تغییر کرد"
+  "changed_successfully": "با موفقیت تغییر کرد",
+  "user_info": ""
 }
