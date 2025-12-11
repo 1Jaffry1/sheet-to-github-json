@@ -8,5 +8,6 @@
   "gender": "Gender",
   "reset": "Reset",
   "mature": "mature",
-  "confirm_text": "Are you sure you want to reset?"
+  "confirm_text": "Are you sure you want to reset?",
+  "yes": "Yes"
 }
