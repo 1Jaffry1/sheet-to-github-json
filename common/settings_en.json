@@ -7,5 +7,6 @@
   "user_info": "User Info",
   "gender": "Gender",
   "reset": "Reset",
-  "mature": "mature"
+  "mature": "mature",
+  "confirm_text": ""
 }
