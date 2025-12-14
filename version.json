@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-14T16:13:45.847Z",
+  "version": "2025-12-14T16:14:06.176Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -41,10 +41,14 @@
       "prefix": "about",
       "folder": "common",
       "langs": [
-        "ur"
+        "ur",
+        "fa",
+        "en"
       ],
       "files": [
-        "common/about_ur.json"
+        "common/about_ur.json",
+        "common/about_fa.json",
+        "common/about_en.json"
       ]
     },
     "common": {
