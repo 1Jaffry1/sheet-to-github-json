@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-24T18:44:52.311Z",
+  "version": "2025-12-24T18:45:31.861Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -71,6 +71,24 @@
         "common/common_en.json",
         "common/common_ar.json",
         "common/common_sn.json"
+      ]
+    },
+    "guidance": {
+      "prefix": "guidance",
+      "folder": "common",
+      "langs": [
+        "ar",
+        "fa",
+        "en",
+        "ur",
+        "sn"
+      ],
+      "files": [
+        "common/guidance_ar.json",
+        "common/guidance_fa.json",
+        "common/guidance_en.json",
+        "common/guidance_ur.json",
+        "common/guidance_sn.json"
       ]
     },
     "login": {
