@@ -1,8 +1,8 @@
 {
   "DONT TOUCH ROW 1, SCRIPT WILL BREAK": "",
   "signup_title": "معلومات المستخدم",
-  "gender": "",
-  "maturity": "",
+  "gender": "الجنس",
+  "maturity": "بالغ؟",
   "immature": "",
   "mature": "",
   "full_name": "",
