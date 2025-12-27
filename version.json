@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-27T16:19:56.983Z",
+  "version": "2025-12-27T16:22:40.469Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -21,8 +21,8 @@
         "seestani/seestani_notes.json"
       ]
     },
-    "Sheet11": {
-      "prefix": "sheet11",
+    "levels": {
+      "prefix": "levels",
       "folder": "common",
       "langs": [
         "en",
@@ -33,12 +33,12 @@
         "image"
       ],
       "files": [
-        "common/sheet11_en.json",
-        "common/sheet11_ur.json",
-        "common/sheet11_fa.json",
-        "common/sheet11_ar.json",
-        "common/sheet11_sn.json",
-        "common/sheet11_image.json"
+        "common/levels_en.json",
+        "common/levels_ur.json",
+        "common/levels_fa.json",
+        "common/levels_ar.json",
+        "common/levels_sn.json",
+        "common/levels_image.json"
       ]
     },
     "settings": {
