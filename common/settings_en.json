@@ -11,5 +11,6 @@
   "confirm_text": "Are you sure you want to reset?",
   "yes": "Yes",
   "no": "No",
-  "reset_mighat_warning": "By changing the checkpoint, all your progress will be reset. Are you sure?"
+  "reset_mighat_warning": "By changing the checkpoint, all your progress will be reset. Are you sure?",
+  "change-mighat": ""
 }
