@@ -10,5 +10,6 @@
   "mature": "mature",
   "confirm_text": "Are you sure you want to reset?",
   "yes": "Yes",
-  "no": "No"
+  "no": "No",
+  "reset_mighat_warning": ""
 }
