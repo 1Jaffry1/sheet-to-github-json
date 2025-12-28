@@ -59,5 +59,6 @@
   "vow_formula": "Formula of the vow (Nadhr):",
   "nadhr_description": "The vow formula must be recited verbally and can be done in two ways",
   "nadhr_method_item1": "Without specifying a particular place for entering Ihram\nAccording to this formula, before the Miqat or parallel to the Miqat, you may enter Ihram at any place you wish.",
-  "nadhr_method_item2": "By specifying a particular place for entering Ihram\nThe specified place must be before the Miqat or parallel to the Miqat."
+  "nadhr_method_item2": "By specifying a particular place for entering Ihram\nThe specified place must be before the Miqat or parallel to the Miqat.",
+  "with_place_box": ""
 }
