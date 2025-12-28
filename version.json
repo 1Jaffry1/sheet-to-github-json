@@ -1,9 +1,9 @@
 {
-  "version": "2025-12-28T12:18:39.654Z",
+  "version": "2025-12-28T12:19:17.914Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
-      "folder": "seestani",
+      "folder": "common",
       "langs": [
         "en",
         "ur",
@@ -13,12 +13,12 @@
         "notes"
       ],
       "files": [
-        "seestani/seestani_en.json",
-        "seestani/seestani_ur.json",
-        "seestani/seestani_fa.json",
-        "seestani/seestani_ar.json",
-        "seestani/seestani_sn.json",
-        "seestani/seestani_notes.json"
+        "common/seestani_en.json",
+        "common/seestani_ur.json",
+        "common/seestani_fa.json",
+        "common/seestani_ar.json",
+        "common/seestani_sn.json",
+        "common/seestani_notes.json"
       ]
     },
     "levels": {
