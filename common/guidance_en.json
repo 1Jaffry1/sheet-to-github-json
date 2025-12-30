@@ -63,5 +63,6 @@
   "with_place_box_text": "لِلّٰهِ عَلَیَّ أَنْ أُحْرِمَ قَبْلَ الْمِیقَات",
   "without_place_box_text": "لِلّٰهِ عَلَیَّ أَنْ أُحْرِمَ مِنْ --- (مثلاً: لاہور)",
   "nadr_notice_text": "By making a vow, a person does not become maḥram.\nWait until you reach the place where, according to the vow, you must enter the state of iḥrām, and from there enter iḥrām.",
-  "nadr_fulfilled_text": "I have fulfilled the vow"
+  "nadr_fulfilled_text": "I have fulfilled the vow",
+  "home": "Home"
 }
