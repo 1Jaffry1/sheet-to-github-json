@@ -1,5 +1,5 @@
 {
-  "version": "2026-01-05T07:51:46.201Z",
+  "version": "2026-01-05T09:21:34.760Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -139,6 +139,20 @@
         "common/sai_ar.json",
         "common/sai_en.json",
         "common/sai_fa.json"
+      ]
+    },
+    "tawaf": {
+      "prefix": "tawaf",
+      "folder": "common",
+      "langs": [
+        "ar",
+        "fa",
+        "ar"
+      ],
+      "files": [
+        "common/tawaf_ar.json",
+        "common/tawaf_fa.json",
+        "common/tawaf_ar.json"
       ]
     }
   }
