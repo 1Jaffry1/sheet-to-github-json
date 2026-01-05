@@ -1,5 +1,5 @@
 {
-  "version": "2026-01-04T10:04:44.338Z",
+  "version": "2026-01-05T07:48:57.242Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -125,6 +125,20 @@
         "login/login_ar.json",
         "login/login_sn.json",
         "login/login_notes.json"
+      ]
+    },
+    "sai": {
+      "prefix": "sai",
+      "folder": "common",
+      "langs": [
+        "ar",
+        "en",
+        "fa"
+      ],
+      "files": [
+        "common/sai_ar.json",
+        "common/sai_en.json",
+        "common/sai_fa.json"
       ]
     }
   }
