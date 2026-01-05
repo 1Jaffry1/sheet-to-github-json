@@ -1,15 +1,5 @@
 [
   {
-    "name": "Ayatollah Sistani",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbNt_0EV-g_z53C3-oK0rYkce6Y9Z3HjBxCw&s",
-    "en": "Ayatollah Sistani",
-    "fa": "آیت اللہ سیستانی",
-    "ar": "آیة اللہ السیستاني",
-    "ur": "آیت اللہ سیستانی",
-    "sn": "آيت الله سيستاني",
-    "key": "sistani"
-  },
-  {
     "name": "Ayatollah Khamenei",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFZXQRWLQwsvMh_iNrfMyk_odUamCFukrBw&s",
     "en": "Ayatollah Khamenei",
@@ -18,5 +8,15 @@
     "ur": "آیت اللہ خامنہ ای",
     "sn": "آيت الله خامنه اي",
     "key": "khamenei"
+  },
+  {
+    "name": "Ayatollah Sistani",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbNt_0EV-g_z53C3-oK0rYkce6Y9Z3HjBxCw&s",
+    "en": "Ayatollah Sistani",
+    "fa": "آیت اللہ سیستانی",
+    "ar": "آیة اللہ السیستاني",
+    "ur": "آیت اللہ سیستانی",
+    "sn": "آيت الله سيستاني",
+    "key": "sistani"
   }
 ]
