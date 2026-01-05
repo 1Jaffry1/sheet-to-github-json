@@ -1,5 +1,5 @@
 {
-  "version": "2026-01-05T09:21:34.760Z",
+  "version": "2026-01-05T09:28:20.734Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -147,12 +147,12 @@
       "langs": [
         "ar",
         "fa",
-        "ar"
+        "en"
       ],
       "files": [
         "common/tawaf_ar.json",
         "common/tawaf_fa.json",
-        "common/tawaf_ar.json"
+        "common/tawaf_en.json"
       ]
     }
   }
