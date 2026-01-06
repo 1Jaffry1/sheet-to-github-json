@@ -13,5 +13,6 @@
   "trmain_p3_text": "In Tawaf, the mechanism of the system must be tested.\nGuidance has the discretion, and Tawaf may be performed while riding a means such as a wheelchair—whether the person moves it themselves or someone else moves it—or the person may move in whatever way they can or wish (without asking the driver to stop it).\n\nA person who cannot perform Tawaf themselves (even with help from another), and no one else can perform Tawaf on their behalf, must appoint a proxy (Na'ib).",
   "select_tawaf_method": "Choose the method of Tawaf:",
   "tawaf_method_onfoot": "On foot",
-  "tawaf_method_wheelchair": "Wheelchair and similar"
+  "tawaf_method_wheelchair": "Wheelchair and similar",
+  "tawaf_method_proxy": "Proxy (Na'ib)"
 }
