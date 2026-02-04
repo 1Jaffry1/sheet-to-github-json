@@ -51,5 +51,6 @@
   "ip10_q3": "Do you have access to water or something with which you can perform tayammum (dry ablution)?",
   "ip10_text_item1": "Wait and perform ghusl",
   "ip10_text_item2": "If the time requires entering the mosque, perform tayammum and enter the mosque and enter ihram",
-  "ip10_q1_hint": ""
+  "ip10_q1_hint": "Perform ghusl",
+  "ip10_q2_hint": ""
 }
