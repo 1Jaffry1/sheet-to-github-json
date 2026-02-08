@@ -14,5 +14,6 @@
   "select_tawaf_method": "Choose the method of Tawaf:",
   "tawaf_method_onfoot": "On foot",
   "tawaf_method_wheelchair": "Wheelchair and similar",
-  "tawaf_method_proxy": "Proxy (Na'ib)"
+  "tawaf_method_proxy": "Proxy (Na'ib)",
+  "tmain_p14_text": ""
 }
