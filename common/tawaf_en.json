@@ -38,5 +38,6 @@
   "tmain_p6_q1": "Is the person able to remove the impurity without disrupting the Tawaf path,\neven if it requires changing clothes or wearing clean clothing?",
   "tmain_p6_q1_hint": "after removing the impurity, complete the Tawaf.",
   "tmain_p6_q2": "(If it is not possible, and the person knows about the impurity, or the impurity occurred before completing the fourth round:)?",
-  "tmain_p6_q2_hint1": "Complete the Tawaf, and there is no need to repeat it."
+  "tmain_p6_q2_hint1": "Complete the Tawaf, and there is no need to repeat it.",
+  "tmain_p6_q2_hint2": ""
 }
