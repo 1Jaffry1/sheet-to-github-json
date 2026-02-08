@@ -16,8 +16,8 @@
   "tawaf_method_wheelchair": "Wheelchair and similar",
   "tawaf_method_proxy": "Proxy (Na'ib)",
   "tmain_p4_title": "How to Perform Tawaf",
-  "tmain_p4_text_item1": "",
-  "tmain_p4_text_item2": "",
+  "tmain_p4_text_item1": "Tawaf begins at the Black Stone (Hajar al-Aswad) and also ends at the Black Stone.",
+  "tmain_p4_text_item2": "Tawaf consists of seven rounds (each round starts from the Black Stone and ends at the Black Stone).",
   "tmain_p4_text_item3": "The seven rounds are considered continuous.",
   "tmain_p4_text_item4": "For Tawaf to be considered continuous, there should not be long gaps between the rounds such that it would no longer be commonly regarded as consecutive.",
   "tmain_p4_text_item5": "During Tawaf, one must not intentionally move away from the Black Stone; if one does so intentionally, the Tawaf becomes invalid. However, if it happens unintentionally, the Tawaf is not invalid.",
@@ -27,5 +27,6 @@
   "tmain_p4_text_item9": "A woman who is menstruating (ha’id) or in post-partum bleeding (nifas), if in the state of Tawaf, should continue her movement in a straight manner.",
   "tmain_p4_text_item10": "Hijr Ismail is not considered part of the Tawaf area.",
   "tmain_p4_text_item11": "The pilgrim must perform Tawaf outside the Hijr, not inside it and not on its wall.",
-  "tmain_p4_text_item12": "Tawaf must be performed on the ground level outside the structure, and not on the stairs or on the raised base (Shadharwan) surrounding the Kaaba."
+  "tmain_p4_text_item12": "Tawaf must be performed on the ground level outside the structure, and not on the stairs or on the raised base (Shadharwan) surrounding the Kaaba.",
+  "tmain_p5_title": ""
 }
