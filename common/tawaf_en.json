@@ -4,7 +4,7 @@
   "tmain_p1_item2": "Checklist",
   "tmain_p1_item3": "How to perform Tawaf",
   "tmain_p1_item4": "Counting the circuits (rounds) of Tawaf",
-  "np0_title": "",
+  "np0_title": "Tawaf Prayer",
   "tawaf_guidance_item1": "For performing Tawaf, purity from both minor and major ritual impurity is required, as well as the cleanliness of the body and clothing from physical impurity (najāsah).",
   "tawaf_guidance_item2": "Covering the private parts during Tawaf is required—based on obligatory precaution—within the same limits that are required for prayer. Moreover, it is preferable, and rather based on precaution, to observe all the conditions of a prayer performer’s clothing during Tawaf, in fact for all garments worn by the person performing Tawaf.",
   "tawaf_guidance_male_item1": "Circumcision for Men and Discerning Boys Is a Condition",
@@ -55,5 +55,6 @@
   "tmain_p10_q1_hint": "abc",
   "tmain_p10_q2": "Was the breaking of the previous state of purity done voluntarily?",
   "tmain_p10_q2_hint1": "",
-  "tmain_p10_q2_hint2": ""
+  "tmain_p10_q2_hint2": "",
+  "np0_text1": "For the Tawaf prayer, it is not obligatory (as a matter of precaution) to stand directly behind the Station of Ibrahim with the specific intention of the Tawaf prayer of the Station of Ibrahim. Rather, it is sufficient to perform the Tawaf prayer between the Station and the Kaaba or around the Station."
 }
