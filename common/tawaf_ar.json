@@ -158,5 +158,6 @@
   "tpm6_confirm_text": "",
   "tpm7_title": "",
   "tpm7_text1": "",
-  "tpm7_q1": ""
+  "tpm7_q1": "",
+  "tpm7_q1_hint_yes": ""
 }
