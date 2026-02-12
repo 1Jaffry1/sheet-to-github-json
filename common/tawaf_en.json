@@ -126,6 +126,7 @@
   "tpm3_status": "Status:",
   "tpm3_status_healthy": "Healthy",
   "tpm3_status_excused": "Excused",
+  "tpm3_status_healthy_hint": "",
   "tpm6_title": "",
   "tpm6_general_text1": "",
   "tpm6_general_text2": "",
