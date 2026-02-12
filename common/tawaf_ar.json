@@ -133,6 +133,10 @@
   "tpm4_q1_hint_no": "",
   "tpm5_title": "",
   "tpm5_text1": "",
+  "tpm5_text2": "",
+  "tpm5_text3": "",
+  "tpm5_text4": "",
+  "tpm5_text5": "",
   "tpm6_title": "",
   "tpm6_general_text1": "",
   "tpm6_general_text2": "",
@@ -143,6 +147,5 @@
   "tpm6_female_text3": "",
   "tpm6_female_text4": "",
   "tpm6_female_text5": "",
-  "tpm6_female_text6": "",
-  "tpm6_confirm_text": ""
+  "tpm6_female_text6": ""
 }
