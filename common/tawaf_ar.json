@@ -164,5 +164,7 @@
   "tpm7_q2_option1": "",
   "tpm7_q2_option2": "",
   "tpm7_q2_option2_hint": "",
-  "tpm7_q3": ""
+  "tpm7_q3": "",
+  "tpm7_q3_yes_hint": "",
+  "tpm7_q3_no_hint": ""
 }
