@@ -143,7 +143,7 @@
   "tpm5_text5_modal": "It is not obligatory to delay it until the situation becomes clear.\nHowever, if he hastens and performs it, and later it becomes clear that there was sufficient opportunity, then as an obligatory precaution he must perform it again.",
   "tpm5_text6": "",
   "tpm5_text6_modal": "If he hastens (three circuits of tawaf) and performs them, and later it becomes clear that there was sufficient opportunity, then as an obligatory precaution he must perform it again.",
-  "tpm5_modal_general_text": "",
+  "tpm5_modal_general_text": "For a person suffering from chronic diarrhea (mabṭūn), the recommended precaution—indeed, according to the apparent implication of the issue, a necessary precaution—is that if he is able, he should combine between two actions:\n\nHe should both perform the tawaf himself along with its two rakʿahs of prayer, and also appoint a proxy to perform them on his behalf.\n\nIf his excuse is removed after performing the tawaf with excused purification (ṭahārah ʿudhrīyah), and before the time for tawaf ends, repeating the tawaf with normal (optional) purification is not obligatory.",
   "tpm6_title": "",
   "tpm6_general_text1": "",
   "tpm6_general_text2": "",
@@ -155,5 +155,6 @@
   "tpm6_female_text4": "If a part of a woman’s body that must be covered becomes uncovered during tawaf—even involuntarily, such as her covering slipping—and even one complete circuit (shawt) or more is performed in that state, the tawaf is not invalidated; because the portion performed without proper covering is not counted.",
   "tpm6_female_text5": "If she is able to correct it without returning, she must omit that circuit and perform it again; and if only part of a circuit was affected, she must return and make up that portion which was performed without proper covering. If, due to crowding, returning is not possible, she may walk—without the intention of tawaf—until reaching the Black Stone (Hajar al-Aswad), and then begin that circuit anew.",
   "tpm6_female_text6": "If, during tawaf, some of a woman’s adornment becomes visible, this does not harm the validity of her tawaf.",
-  "tpm6_confirm_text": "Covering (satr) has been achieved"
+  "tpm6_confirm_text": "Covering (satr) has been achieved",
+  "tpm7_title": ""
 }
