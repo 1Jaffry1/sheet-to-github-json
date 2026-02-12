@@ -117,7 +117,7 @@
   "tpm2_q1": "Are you able to perform ghusl?",
   "tpm2_q1_hint_yes": "Perform ghusl and then perform tawaf.",
   "tpm2_q2": "Are you unable to perform ghusl and have no hope of being able to perform it?",
-  "tpm2_q2_hint_yes": "",
+  "tpm2_q2_hint_no": "",
   "tpm6_title": "",
   "tpm6_general_text1": "",
   "tpm6_general_text2": "",
