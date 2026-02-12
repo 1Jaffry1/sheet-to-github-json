@@ -163,5 +163,6 @@
   "tpm7_q2": "What is the impurity?",
   "tpm7_q2_option1": "Blood from wounds or injuries prior to healing",
   "tpm7_q2_option2": "Other than that",
-  "tpm7_q2_option2_hint": "It is obligatory (as an obligatory precaution) to remove the impurity."
+  "tpm7_q2_option2_hint": "It is obligatory (as an obligatory precaution) to remove the impurity.",
+  "tpm7_q3": ""
 }
