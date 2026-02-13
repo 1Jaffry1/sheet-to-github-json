@@ -172,5 +172,8 @@
   "tpm8_warning1": "However, for a non-discerning child who performs tawaf himself, circumcision is required (the full ruling should be completed via inquiry/istiftā’).",
   "tpm8_text2": "Circumcision is obligatory; the tawaf of an uncircumcised person is not valid.",
   "tpm8_warning2": "If circumcision is not possible, the ruling should be obtained from Mr. Haider.",
-  "tpm8_submit_text": "Circumcision completed"
+  "tpm8_submit_text": "Circumcision completed",
+  "tpm8_status1": "",
+  "tpm8_status2": "",
+  "tpm8_status3": ""
 }
