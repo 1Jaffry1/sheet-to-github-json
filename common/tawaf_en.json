@@ -113,7 +113,7 @@
   "tpm1_item4": "",
   "tpm1_item5": "I have purity of clothing from najāsah",
   "tpm1_item6": "",
-  "tpm1_item7": "",
+  "tpm1_item7": "I have covered the parts of the body whose covering is required in prayer",
   "tpm2_title": "Purity from major ritual impurity (hadath al-akbar)",
   "tpm2_q1": "Are you able to perform ghusl?",
   "tpm2_q1_hint_yes": "Perform ghusl and then perform tawaf.",
@@ -176,5 +176,6 @@
   "tpm8_submit_text": "Circumcision completed",
   "tpm8_status1": "Adult male",
   "tpm8_status2": "Discerning child (mumayyiz)",
-  "tpm8_status3": "Non-discerning child"
+  "tpm8_status3": "Non-discerning child",
+  "tpf8": ""
 }
