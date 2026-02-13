@@ -166,5 +166,6 @@
   "tpm7_q2_option2_hint": "It is obligatory (as an obligatory precaution) to remove the impurity.",
   "tpm7_q3": "Is purifying or changing it excessively difficult (causes hardship)?",
   "tpm7_q3_hint_yes": "It is permissible (no problem).",
-  "tpm7_q3_hint_no": "It is obligatory (as an obligatory precaution) to remove the impurity."
+  "tpm7_q3_hint_no": "It is obligatory (as an obligatory precaution) to remove the impurity.",
+  "tpm8_title": ""
 }
