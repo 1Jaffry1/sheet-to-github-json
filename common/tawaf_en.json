@@ -167,9 +167,9 @@
   "tpm7_q3": "Is purifying or changing it excessively difficult (causes hardship)?",
   "tpm7_q3_hint_yes": "It is permissible (no problem).",
   "tpm7_q3_hint_no": "It is obligatory (as an obligatory precaution) to remove the impurity.",
-  "tpm8_title": "",
-  "tpm8_text1": "",
-  "tpm8_warning1": "",
-  "tpm8_text2": "",
+  "tpm8_title": "Checklist",
+  "tpm8_text1": "Circumcision is not required for a non-discerning child (ṣabī ghayr mumayyiz) whose guardian performs tawaf on his behalf; rather, it is recommended as a precaution.",
+  "tpm8_warning1": "However, for a non-discerning child who performs tawaf himself, circumcision is required (the full ruling should be completed via inquiry/istiftā’).",
+  "tpm8_text2": "Circumcision is obligatory; the tawaf of an uncircumcised person is not valid.",
   "tpm8_warning2": ""
 }
