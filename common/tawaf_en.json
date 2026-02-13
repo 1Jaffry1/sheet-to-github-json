@@ -102,6 +102,7 @@
   "np0_q": "Are you able to perform the tawaf prayer, even with someone else’s help?",
   "np1_text": "After completing Tawaf, has a gap that invalidates customary continuity (muwalat ‘urfi) occurred?",
   "np2_title": "Interval between Tawaf and Tawaf Prayer",
+  "np2_intentional_delay": "",
   "np9_title": "Proxy (Na'ib)",
   "np9_text1": "Your duty is to appoint a proxy.",
   "np9_text2": "A person may appoint a proxy if, due to illness, a fracture, or similar reasons, they do not have the ability to perform it directly, even with the help of others.",
