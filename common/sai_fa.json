@@ -6,5 +6,6 @@
   "sp2_counting_laps": "شمارش اشواط سعی",
   "sp2_guidance_section_title": "هدایت",
   "sp2_guidance_covering_requirement": "سعی باید در همکف یا زیرزمین صورت بگیرد. سعی در طبقات بالا باطل است.",
-  "sp2_guidance_purity_requirement": "برای سعی طهارت (وضو یا غسل) لازم نیست، البته مستحب است."
+  "sp2_guidance_purity_requirement": "برای سعی طهارت (وضو یا غسل) لازم نیست، البته مستحب است.",
+  "sp2_guidance_mustahab_not_obligatory": "سعی منجب نیست، صحیح است باید خودش انجام دهد."
 }
