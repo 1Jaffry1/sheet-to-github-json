@@ -40,5 +40,6 @@
   "sp6_optional_wheelchair_rule": "",
   "sp6_compelled_self_perform_rule": "",
   "sp6_compelled_proxy_rule": "",
-  "sp7_proxy_obligation_rule": ""
+  "sp7_proxy_obligation_rule": "",
+  "sp7_proxy_conditions_title": ""
 }
