@@ -18,7 +18,7 @@
   "sp21_option_walk": "",
   "sp21_option_wheelchair": "",
   "sp2_option_proxy": "",
-  "sp4_how_sai_section_title": "",
+  "sp2_how_sai_section_title": "",
   "sp2_how_sai_intention": "",
   "sp2_how_sai_start_safa": "",
   "sp2_how_sai_count_rule": "",
@@ -32,5 +32,10 @@
   "sp5_recommended_title": "",
   "sp5_recommended_go_to_safa": "",
   "sp5_recommended_dhikr": "",
-  "sp5_recommended_continue_walk": ""
+  "sp5_recommended_continue_walk": "",
+  "sp5_special_section_title": "",
+  "sp5_special_between_markers": "",
+  "sp5_special_resume_walk": "",
+  "sp5_start_sai_button": "",
+  "sp6_optional_wheelchair_rule": ""
 }

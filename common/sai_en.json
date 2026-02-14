@@ -18,7 +18,7 @@
   "sp21_option_walk": "Walking",
   "sp21_option_wheelchair": "Wheelchair and Similar",
   "sp2_option_proxy": "Proxy",
-  "sp4_how_sai_section_title": "How to Perform Sa‘i:",
+  "sp2_how_sai_section_title": "How to Perform Sa‘i",
   "sp2_how_sai_intention": "Make the intention.",
   "sp2_how_sai_start_safa": "It must begin from Safa.",
   "sp2_how_sai_count_rule": "Sa‘i consists of seven laps (from Safa to Marwah counts as one lap, and from Marwah back to Safa counts as one lap).",
@@ -32,5 +32,10 @@
   "sp5_recommended_title": "It is recommended:",
   "sp5_recommended_go_to_safa": "Walk calmly and with dignity until reaching the first marker (the starting point from Safa toward Marwah).",
   "sp5_recommended_dhikr": "Say three times: Allahu Akbar, Alhamdulillah, Subhanallah, La ilaha illallah, and send abundant salawat.",
-  "sp5_recommended_continue_walk": ""
+  "sp5_recommended_continue_walk": "Then continue walking calmly and with dignity until reaching the top of Marwah.",
+  "sp5_special_section_title": "Walk calmly and with dignity.",
+  "sp5_special_between_markers": "Upon reaching the first marker (beginning of Marwah), increase the pace slightly (harwala), not excessively fast, but with composure and dignity.",
+  "sp5_special_resume_walk": "Then resume walking calmly and with dignity.",
+  "sp5_start_sai_button": "",
+  "sp6_optional_wheelchair_rule": ""
 }

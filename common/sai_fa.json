@@ -18,7 +18,7 @@
   "sp21_option_walk": "پیاده",
   "sp21_option_wheelchair": "ویلچر و مانند آن",
   "sp2_option_proxy": "نیابت",
-  "sp4_how_sai_section_title": "نحوه انجام سعی:",
+  "sp2_how_sai_section_title": "نحوه انجام سعی",
   "sp2_how_sai_intention": "نیت کند",
   "sp2_how_sai_start_safa": "آغازش از صفا باشد",
   "sp2_how_sai_count_rule": "سعی رفتن هفت مرتبه است (از صفا به مروه یک شوط و نیز از مروه تا صفا یک شوط حساب می‌شود).",
@@ -32,5 +32,10 @@
   "sp5_recommended_title": "مستحب است:",
   "sp5_recommended_go_to_safa": "با آرامش و وقار راه برود تا به محل مناره اول (صفا آغاز مروه) برسد.",
   "sp5_recommended_dhikr": "و سه مرتبه بگوید: الله اکبر، الحمد لله، سبحان الله، لا اله الا الله، و بسیار صلوات بفرستد.",
-  "sp5_recommended_continue_walk": "سپس با وقار و آرامش راه برود تا بالای مروه قرار گیرد."
+  "sp5_recommended_continue_walk": "سپس با وقار و آرامش راه برود تا بالای مروه قرار گیرد.",
+  "sp5_special_section_title": "با آرامش و وقار راه رود",
+  "sp5_special_between_markers": "هنگام رسیدن به محل مناره اول (محل آغاز مروه)، قدری سریع‌تر حرکت کند (هروله)، نه به گونه‌ای بسیار شدید بلکه با آرامش و وقار.",
+  "sp5_special_resume_walk": "سپس با وقار و آرامش راه برود.",
+  "sp5_start_sai_button": "آغاز سعی",
+  "sp6_optional_wheelchair_rule": ""
 }
