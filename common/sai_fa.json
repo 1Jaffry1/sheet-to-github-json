@@ -40,7 +40,7 @@
   "sp6_optional_wheelchair_rule": "در حالت اختیار (یعنی کسی که قادر بر سعی پیاده است) ویلچر فقط در صورتی جایز است که بتواند آن را در اختیار حرکت‌کننده باشد، بدون اینکه از هل‌دهنده آن را طلب کند.",
   "sp6_compelled_self_perform_rule": "در حالت اضطرار اگر وظیفه شما سعی بنفسه است، اختیار توقف شرط است.",
   "sp6_compelled_proxy_rule": "در حالت اضطرار اگر وظیفه این باشد که دیگری سعی دهد، اختیار توقف شرط ندارد.",
-  "sp7_proxy_obligation_rule": "",
+  "sp7_proxy_obligation_rule": "کسی که نمی‌تواند مباشرتاً و نه مساعدتاً سعی کند و فرد دیگری هم نمی‌تواند او را سعی دهد، وظیفه او نایب گرفتن است.",
   "sp7_proxy_conditions_title": "شرایط نایب:",
   "sp7_proxy_condition_example": "",
   "sp7_proxy_completed_button": "Proxy Has Performed It"
