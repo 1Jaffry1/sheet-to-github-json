@@ -219,5 +219,6 @@
   "np13_two_rakats": "It consists of two rak‘ahs like the Fajr prayer.",
   "np13_recommended_recitation": "It is recommended to recite Surah Al-Tawhid in the first rak‘ah after Al-Fatihah, and Surah Al-Kafirun in the second rak‘ah after Al-Fatihah.",
   "np13_loud_or_silent": "The prayer may be recited either quietly or aloud.",
-  "np13_no_congregation": "It is not valid to perform it in congregation."
+  "np13_no_congregation": "It is not valid to perform it in congregation.",
+  "np13_gender_position_rule": ""
 }
