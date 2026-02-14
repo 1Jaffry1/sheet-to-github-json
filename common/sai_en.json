@@ -15,5 +15,6 @@
   "sp2_guidance_proxy_rule": "One who cannot perform Sa‘i even with a wheelchair must appoint a proxy.",
   "sp21_walking_not_required": "Walking is not a condition for Sa‘i; therefore, it is permissible to perform Sa‘i while riding a device such as a wheelchair, provided that the person moves it themselves and is not pushed by someone else, and provided they are able to stop whenever they wish.",
   "sp21_proxy_if_cannot": "One who cannot perform Sa‘i themselves (even with assistance), and no one can perform it on their behalf physically, must appoint a proxy.",
-  "sp21_option_walk": "Walking"
+  "sp21_option_walk": "Walking",
+  "sp21_option_wheelchair": "Wheelchair and Similar"
 }
