@@ -222,5 +222,6 @@
   "np13_no_congregation": "It is not valid to perform it in congregation.",
   "np13_gender_position_rule": "The condition that a woman should not stand beside or ahead of a man does not apply when crowding is present; therefore, in that situation, being ahead or behind (relative to a man) is permissible.",
   "np13_location_rule": "The Tawaf prayer must be performed near Maqam Ibrahim (peace be upon him), and apparently it must be performed behind the Maqam.",
-  "np13_action_button": "I Have Performed the Prayer"
+  "np13_action_button": "I Have Performed the Prayer",
+  "np15_title": ""
 }
