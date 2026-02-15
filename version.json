@@ -1,5 +1,5 @@
 {
-  "version": "2026-02-15T12:20:58.080Z",
+  "version": "2026-02-15T13:06:50.267Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -105,6 +105,20 @@
         "common/ihram_en.json",
         "common/ihram_fa.json",
         "common/ihram_ar.json"
+      ]
+    },
+    "taqsir": {
+      "prefix": "taqsir",
+      "folder": "common",
+      "langs": [
+        "en",
+        "fa",
+        "ar"
+      ],
+      "files": [
+        "common/taqsir_en.json",
+        "common/taqsir_fa.json",
+        "common/taqsir_ar.json"
       ]
     },
     "login": {
