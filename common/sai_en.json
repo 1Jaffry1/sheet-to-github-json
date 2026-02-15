@@ -57,5 +57,6 @@
   "sp10_certainty_less_laps": "Certainty of Having Performed Fewer Laps",
   "sp10_doubt_in_laps": "Doubt in the Number of Laps",
   "sp11_modal_title": "Certainty of Having Extra Laps",
-  "sp11_ruling_intro": "If there is an increase in laps:"
+  "sp11_ruling_intro": "If there is an increase in laps:",
+  "sp11_ruling_full_text": ""
 }
