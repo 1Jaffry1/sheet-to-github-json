@@ -209,6 +209,7 @@
   "tpf1_no_minor_hadath_ruling": "For Tawaf and prayer, perform ghusl and wudu is not required. As an obligatory precaution, perform a separate ghusl for each of Tawaf and the prayer.",
   "tpf1_yes_minor_hadath_ruling": "For Tawaf and prayer, perform ghusl. As an obligatory precaution, perform a separate ghusl for each of Tawaf and the prayer. It is recommended as a precaution to also perform wudu in addition to the ghusl.",
   "tpf1_yes_flowing_blood_ruling": "Perform ghusl and wudu and then perform Tawaf. If before the blood reappears one performs the Tawaf prayer, a new ghusl is not required; otherwise, renewing ghusl for the Tawaf prayer is necessary as an obligatory precaution. In both cases, if minor impurity occurs before the Tawaf prayer, one must perform wudu for the prayer.",
+  "tpf1_no_flowing_blood_no_minor_ruling": "",
   "tpf5_title": "Medium Istihada",
   "tpf5_text": "“Perform one ghusl for Tawaf and the prayer of Tawaf.\nAfter that, perform wudu for Tawaf.\n(For the prayer of Tawaf, another wudu is required.)”",
   "tpf6_title": "Type of Hadath",
