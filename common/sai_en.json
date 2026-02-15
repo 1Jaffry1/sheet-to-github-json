@@ -54,5 +54,6 @@
   "sp9_invalid_doubt_rule": "Doubt about the number of laps during Sa‘i invalidates the Sa‘i.",
   "sp9_completed_button": "I Have Completed Sa‘i",
   "sp10_certainty_more_laps": "Certainty of Having Performed Extra Laps",
-  "sp10_certainty_less_laps": "Certainty of Having Performed Fewer Laps"
+  "sp10_certainty_less_laps": "Certainty of Having Performed Fewer Laps",
+  "sp10_doubt_in_laps": ""
 }
