@@ -55,5 +55,6 @@
   "sp9_completed_button": "I Have Completed Sa‘i",
   "sp10_certainty_more_laps": "Certainty of Having Performed Extra Laps",
   "sp10_certainty_less_laps": "Certainty of Having Performed Fewer Laps",
-  "sp10_doubt_in_laps": ""
+  "sp10_doubt_in_laps": "Doubt in the Number of Laps",
+  "sp11_modal_title": ""
 }
