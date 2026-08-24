@@ -12,5 +12,13 @@
   "yes": "جی ها",
   "no": "نه",
   "reset_mighat_warning": "ميقات تبديل ڪرڻ سان انجام ڏنا ویا تمام مراحل ختم ٿي ويندا، ڇا اوهان واقعي ائين ڪرڻ چاهيو ٿا؟",
-  "change-mighat": "ميقات تبديل ڪريو"
+  "change-mighat": "ميقات تبديل ڪريو",
+  "font_size": "",
+  "font_size_small": "",
+  "font_size_medium": "",
+  "font_size_large": "",
+  "font_size_xlarge": "",
+  "header_layout_setting": "",
+  "header_layout_flush": "",
+  "header_layout_below_safe_area": ""
 }

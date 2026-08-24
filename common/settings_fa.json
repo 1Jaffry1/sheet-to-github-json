@@ -12,5 +12,13 @@
   "yes": "بله",
   "no": "خیر",
   "reset_mighat_warning": "با تغییر میقات تمام پیشرفت تان بازنشانی میشود، آیا مطمئن هستید ؟",
-  "change-mighat": "تغییر میقات"
+  "change-mighat": "تغییر میقات",
+  "font_size": "اندازهٔ متن",
+  "font_size_small": "کوچک",
+  "font_size_medium": "متوسط",
+  "font_size_large": "بزرگ",
+  "font_size_xlarge": "خیلی بزرگ",
+  "header_layout_setting": "موقعیت هدر",
+  "header_layout_flush": "کنار ناچ / نوار وضعیت",
+  "header_layout_below_safe_area": "زیر ناحیه امن بالا"
 }

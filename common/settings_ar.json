@@ -12,5 +12,13 @@
   "yes": "نعم",
   "no": "لا",
   "reset_mighat_warning": "میقات تبدیل کرنے سے تمام پیش رفت ختم ہو جائے گی، کیا آپ واقعی ایسا کرنا چاہتے ہیں؟",
-  "change-mighat": "تغيير الميقات"
+  "change-mighat": "تغيير الميقات",
+  "font_size": "",
+  "font_size_small": "",
+  "font_size_medium": "",
+  "font_size_large": "",
+  "font_size_xlarge": "",
+  "header_layout_setting": "",
+  "header_layout_flush": "",
+  "header_layout_below_safe_area": ""
 }

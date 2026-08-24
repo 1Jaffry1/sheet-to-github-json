@@ -12,5 +12,13 @@
   "yes": "ہاں",
   "no": "نہیں",
   "reset_mighat_warning": "",
-  "change-mighat": "میقات تبدیل کریں"
+  "change-mighat": "میقات تبدیل کریں",
+  "font_size": "Font size",
+  "font_size_small": "Small",
+  "font_size_medium": "Medium",
+  "font_size_large": "Large",
+  "font_size_xlarge": "Extra large",
+  "header_layout_setting": "Header position",
+  "header_layout_flush": "Beside notch / status bar",
+  "header_layout_below_safe_area": "Below top safe area"
 }
