@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-24T12:35:30.228Z",
+  "version": "2026-08-24T13:40:22.250Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -91,22 +91,6 @@
         "common/guidance_en.json",
         "common/guidance_ur.json",
         "common/guidance_sn.json"
-      ]
-    },
-    "ihram": {
-      "prefix": "ihram",
-      "folder": "common",
-      "langs": [
-        "en",
-        "fa",
-        "ar",
-        "ur"
-      ],
-      "files": [
-        "common/ihram_en.json",
-        "common/ihram_fa.json",
-        "common/ihram_ar.json",
-        "common/ihram_ur.json"
       ]
     },
     "taqsir": {
