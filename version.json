@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-25T10:48:30.760Z",
+  "version": "2026-08-26T05:44:46.432Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -143,22 +143,6 @@
         "login/login_notes.json"
       ]
     },
-    "sai": {
-      "prefix": "sai",
-      "folder": "common",
-      "langs": [
-        "ar",
-        "en",
-        "fa",
-        "ur"
-      ],
-      "files": [
-        "common/sai_ar.json",
-        "common/sai_en.json",
-        "common/sai_fa.json",
-        "common/sai_ur.json"
-      ]
-    },
     "tawaf": {
       "prefix": "tawaf",
       "folder": "common",
@@ -173,6 +157,22 @@
         "common/tawaf_fa.json",
         "common/tawaf_en.json",
         "common/tawaf_ur.json"
+      ]
+    },
+    "sai": {
+      "prefix": "sai",
+      "folder": "common",
+      "langs": [
+        "ar",
+        "en",
+        "fa",
+        "ur"
+      ],
+      "files": [
+        "common/sai_ar.json",
+        "common/sai_en.json",
+        "common/sai_fa.json",
+        "common/sai_ur.json"
       ]
     }
   }
