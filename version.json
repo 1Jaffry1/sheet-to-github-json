@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-27T06:13:29.005Z",
+  "version": "2026-08-27T06:13:58.492Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -115,11 +115,13 @@
       "langs": [
         "en",
         "fa",
+        "ur",
         "ar"
       ],
       "files": [
         "common/taqsir_en.json",
         "common/taqsir_fa.json",
+        "common/taqsir_ur.json",
         "common/taqsir_ar.json"
       ]
     },
