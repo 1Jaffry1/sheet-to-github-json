@@ -69,5 +69,6 @@
   "jeddah": "جدة",
   "understood": "فھمتُ",
   "home": "البیت",
-  "pretravil_notice": "التوجه"
+  "pretravil_notice": "التوجه",
+  "pretravil_notice_default": ""
 }
