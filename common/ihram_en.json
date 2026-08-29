@@ -48,7 +48,7 @@
   "ip2_clothing_general_item2": "الْحَمْدُ لِلَّهِ الَّذِي قَصَدْتُهُ فَبَلَّغَنِي، وَأَرَدْتُهُ فَأَعَانَنِي وَقَبِلَنِي وَلَمْ يَقْطَعْ بِي، وَوَجْهَهُ أَرَدْتُ فَسَلَّمَنِي، فَهُوَ حِصْنِي وَكَهْفِي وَحِرْزِي، وَظَهْرِي وَمَلَاذِي، وَرَجَائِي وَمَنْجَايَ وَذُخْرِي وَعُدَّتِي فِي شِدَّتِي وَرَخَائِي.",
   "ip6_screen_title": "What is your current state?",
   "ip6_janabah_label": "In the state of Janabah",
-  "ip6_not_janabah_label": "Not in the state of Janabah",
+  "ip6_male_not_janabah_label": "Not in the state of Janabah",
   "ip6_female_not_janabah_label": "",
   "ip6_haiz_nafs_label": "",
   "ip7_screen_title": "Wearing the Ihram",
