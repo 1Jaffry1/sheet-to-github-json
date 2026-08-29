@@ -18,15 +18,15 @@
   "sistani": "Ayatollah Sistani",
   "next": "Next",
   "done": "Done",
-  "intention": "Niyyah",
+  "intention": "Intention (Niyyah):",
   "yes": "Yes",
   "no": "No",
   "sound": "Sound",
   "attention": "Attention",
   "video": "Video",
   "tawaf_title": "Tawaf",
-  "sai_title": "Sa'i",
+  "sai_title": "Sa‘i",
   "ihram_title": "Ihram",
-  "namaz_t_title": "Tawaf prayers",
-  "taqsir_icon_title": "Taqseer"
+  "namaz_t_title": "Tawaf Prayer",
+  "taqsir_icon_title": "Taqsir"
 }
