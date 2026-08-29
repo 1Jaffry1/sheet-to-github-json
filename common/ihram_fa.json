@@ -49,6 +49,7 @@
   "ip6_screen_title": "وضعیتتان چیست؟",
   "ip6_male_janabah_label": "جنب",
   "ip6_male_not_janabah_label": "غیر جنب",
+  "ip6_female_not_janabah_label": "",
   "ip6_female_janabah_label": "حائضه/نفساء",
   "ip7_screen_title": "احرام پوشیدن",
   "ip7_text_item1": "مستحب است احرام را بعد از انجام نماز ظهر ببندد. اگر این ممکن نباشد، بعد از هر نماز واجب. اگر این هم ممکن نباشد، بعد از شش رکعت یا دو رکعت نافله ببندد.",
