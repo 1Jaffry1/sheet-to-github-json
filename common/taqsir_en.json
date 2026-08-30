@@ -16,9 +16,9 @@
   "halq_shaving_method": "If the Umrah is being performed by proxy:<br>Afterwards, the proxy should shave his own head personally or have it shaved by someone who is not in the state of Ihram.<br>It is recommended to begin shaving from the right side of the head.",
   "halq_shaving_dua_title": "Recite the Following Supplication During Halq:",
   "halq_shaving_dua_text": "اَللّٰهُمَّ أَعْطِنِي بِكُلِّ شَعْرَةٍ نُوراً يَوْمَ الْقِيٰامَةِ",
-  "halq_completed_button": "I Have Completed Halq.",
+  "halq_completed_button": "I Have Completed Shaving",
   "taqsir_title": "How to Perform Shortening",
-  "taqsir_intention": "How to Perform Taqsir:",
-  "taqsir_method": "Intention:<br>I perform Taqsir for my own / a proxy Umrah al-Mufradah, seeking nearness to Allah.",
-  "taqsir_completed_button": "I Have Completed Taqsir."
+  "taqsir_intention": "Intention:\nI perform shortening (Taqsir) for my Umrah Mufradah / as a proxy, seeking closeness to Allah.",
+  "taqsir_method": "After that, cut a small amount of the hair of your head, beard, or mustache, either yourself or by someone who is not in a state of ihram.",
+  "taqsir_completed_button": "I Have Completed Shortening"
 }
