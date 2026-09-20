@@ -21,12 +21,12 @@
   "header_layout_setting": "Header position",
   "header_layout_flush": "Beside notch / status bar",
   "header_layout_below_safe_area": "Below top safe area",
-  "appearance_setting": "",
-  "appearance_light": "",
-  "appearance_dark": "",
-  "appearance_system": "",
-  "settings_section_profile": "",
-  "settings_section_display": "",
-  "settings_section_home": "",
-  "settings_section_pilgrim": ""
+  "appearance_setting": "Appearance",
+  "appearance_light": "Light",
+  "appearance_dark": "Dark",
+  "appearance_system": "System",
+  "settings_section_profile": "Profile",
+  "settings_section_display": "Display",
+  "settings_section_home": "Home",
+  "settings_section_pilgrim": "Pilgrim info"
 }

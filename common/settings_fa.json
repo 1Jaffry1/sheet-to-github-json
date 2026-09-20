@@ -21,12 +21,12 @@
   "header_layout_setting": "موقعیت هدر",
   "header_layout_flush": "کنار نوار وضعیت",
   "header_layout_below_safe_area": "زیر نوار وضعیت",
-  "appearance_setting": "Appearance",
-  "appearance_light": "Light",
-  "appearance_dark": "Dark",
-  "appearance_system": "System",
-  "settings_section_profile": "Profile",
-  "settings_section_display": "Display",
-  "settings_section_home": "Home",
-  "settings_section_pilgrim": "Pilgrim info"
+  "appearance_setting": "ظاهر",
+  "appearance_light": "روشن",
+  "appearance_dark": "تاریک",
+  "appearance_system": "سیستم",
+  "settings_section_profile": "پروفایل",
+  "settings_section_display": "نمایش",
+  "settings_section_home": "خانه",
+  "settings_section_pilgrim": "اطلاعات زائر"
 }

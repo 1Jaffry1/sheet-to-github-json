@@ -21,12 +21,12 @@
   "header_layout_setting": "",
   "header_layout_flush": "",
   "header_layout_below_safe_area": "",
-  "appearance_setting": "ظاهر",
-  "appearance_light": "روشن",
-  "appearance_dark": "تاریک",
-  "appearance_system": "سیستم",
-  "settings_section_profile": "پروفایل",
-  "settings_section_display": "نمایش",
-  "settings_section_home": "خانه",
-  "settings_section_pilgrim": "اطلاعات زائر"
+  "appearance_setting": "",
+  "appearance_light": "",
+  "appearance_dark": "",
+  "appearance_system": "",
+  "settings_section_profile": "",
+  "settings_section_display": "",
+  "settings_section_home": "",
+  "settings_section_pilgrim": ""
 }
