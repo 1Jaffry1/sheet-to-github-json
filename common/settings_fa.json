@@ -20,5 +20,13 @@
   "font_size_xlarge": "خیلی بزرگ",
   "header_layout_setting": "موقعیت هدر",
   "header_layout_flush": "کنار نوار وضعیت",
-  "header_layout_below_safe_area": "زیر نوار وضعیت"
+  "header_layout_below_safe_area": "زیر نوار وضعیت",
+  "appearance_setting": "Appearance",
+  "appearance_light": "Light",
+  "appearance_dark": "Dark",
+  "appearance_system": "System",
+  "settings_section_profile": "Profile",
+  "settings_section_display": "Display",
+  "settings_section_home": "Home",
+  "settings_section_pilgrim": "Pilgrim info"
 }

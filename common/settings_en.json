@@ -20,5 +20,13 @@
   "font_size_xlarge": "Extra large",
   "header_layout_setting": "Header position",
   "header_layout_flush": "Beside notch / status bar",
-  "header_layout_below_safe_area": "Below top safe area"
+  "header_layout_below_safe_area": "Below top safe area",
+  "appearance_setting": "",
+  "appearance_light": "",
+  "appearance_dark": "",
+  "appearance_system": "",
+  "settings_section_profile": "",
+  "settings_section_display": "",
+  "settings_section_home": "",
+  "settings_section_pilgrim": ""
 }
