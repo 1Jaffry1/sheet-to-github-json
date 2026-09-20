@@ -11,7 +11,7 @@
   "confirm_text": "هل أنت متأكد أنك تريد إعادة التعيين؟",
   "yes": "نعم",
   "no": "لا",
-  "reset_mighat_warning": "میقات تبدیل کرنے سے تمام پیش رفت ختم ہو جائے گی، کیا آپ واقعی ایسا کرنا چاہتے ہیں؟",
+  "reset_mighat_warning": "",
   "change-mighat": "تغيير الميقات",
   "font_size": "",
   "font_size_small": "",

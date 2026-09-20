@@ -11,7 +11,7 @@
   "confirm_text": "کیا آپ واقعی ری سیٹ کرنا چاہتے ہیں؟",
   "yes": "ہاں",
   "no": "نہیں",
-  "reset_mighat_warning": "",
+  "reset_mighat_warning": "میقات تبدیل کرنے سے تمام پیش رفت ختم ہو جائے گی، کیا آپ واقعی ایسا کرنا چاہتے ہیں؟",
   "change-mighat": "میقات تبدیل کریں",
   "font_size": "",
   "font_size_small": "",
