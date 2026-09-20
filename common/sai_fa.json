@@ -71,5 +71,7 @@
   "sp8_arrived_safa": "رسیدم به صفا",
   "sp8_confirm_title": "تأیید",
   "sp8_confirm_arrival_marwa": "آیا به مروه رسیده‌اید؟",
-  "sp8_confirm_arrival_safa": "آیا به صفا رسیده‌اید؟"
+  "sp8_confirm_arrival_safa": "آیا به صفا رسیده‌اید؟",
+  "sp10_return_button": "",
+  "sp8_reset_confirm": ""
 }

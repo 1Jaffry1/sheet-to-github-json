@@ -71,5 +71,7 @@
   "sp8_arrived_safa": "",
   "sp8_confirm_title": "",
   "sp8_confirm_arrival_marwa": "",
-  "sp8_confirm_arrival_safa": ""
+  "sp8_confirm_arrival_safa": "",
+  "sp10_return_button": "Return",
+  "sp8_reset_confirm": "Start Sai counting from the beginning?"
 }
