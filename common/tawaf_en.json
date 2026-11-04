@@ -165,7 +165,7 @@
   "tpm3_status": "Status:",
   "tpm3_status_healthy": "No Impediment",
   "tpm3_status_excused": "Excused",
-  "tpm3_status_healthy_hint": "You must perform Wudu for Tawaf.",
+  "tpm3_status_healthy_hint": "You must perform Wudu.",
   "tpm3_status_healthy_hint2": "I am unable to perform Wudu due to a valid excuse.",
   "tpm4_title": "Ruling for a Person Excused from Performing Wudu",
   "tpm4_q1": "If you are unable to perform Wudu due to a valid excuse, do you have no hope that the excuse will cease?",

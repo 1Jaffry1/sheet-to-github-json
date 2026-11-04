@@ -165,7 +165,7 @@
   "tpm3_status": "الوضعية:",
   "tpm3_status_healthy": "السليم",
   "tpm3_status_excused": "المعذور",
-  "tpm3_status_healthy_hint": "يجب عليك الوضوء للطواف",
+  "tpm3_status_healthy_hint": "يجب عليك الوضوء ",
   "tpm3_status_healthy_hint2": "لستُ قادراً على الوضوء بسبب العُذر",
   "tpm4_title": "وظيفة المعذور في الوضوء",
   "tpm4_q1": "إذا لم يتمكّن المكلف من الوضوء لعذر\n ھل کان ذلک العذر مع اليأس من زواله؟",
