@@ -26,6 +26,7 @@
   "tmain_p4_text_item8": "طواف‌کننده از خودِ کعبه بیرون باشد و از لبهٔ برجسته‌ای که در اطراف آن قرار دارد و شاذَروان نامیده می‌شود نیز بیرون باشد",
   "tmain_p5_title": "آغاز طواف",
   "tmain_p5_intention_title": "نیت:",
+  "tmain_p5_intention_text": "من طواف عمره مفرده را انجام می‌دهم، قربةً الی‌الله",
   "tmain_p5_notice_text": "اگر ھنگام طواف قبل از شوط چھارم وضو از بین برود طواف باطل می شود \nاما بعد از اتمام شوط چھارم وضو از بین برود احکامی دارد ",
   "tmain_p5_more_info": "اگر طہارت ٹوٹ جائے تو کیا کرنا چاہئے؟",
   "tmain_p5_hadath_title": "نوع حدث را مشخص کنید",
@@ -288,13 +289,5 @@
   "tmain_p12_type_mutawassita": "tmain_p12_type_mutawassita",
   "tmain_p12_type_kathira": "tmain_p12_type_kathira",
   "tawaf_nisaa_title": "طواف النساء",
-  "namaz_tawaf_nisaa": "نماز طواف النساء",
-  "tmain_p5_intention_text_self": "",
-  "tmain_p5_intention_text_proxy": "",
-  "np13_intention_self": "",
-  "np13_intention_proxy": "",
-  "tawaf_nisaa_intention_text_self": "",
-  "tawaf_nisaa_intention_text_proxy": "",
-  "tawaf_nisaa_prayer_intention_self": "",
-  "tawaf_nisaa_prayer_intention_proxy": ""
+  "namaz_tawaf_nisaa": "نماز طواف النساء"
 }

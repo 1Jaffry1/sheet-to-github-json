@@ -26,6 +26,7 @@
   "tmain_p4_text_item8": "The person performing Tawaf must remain outside the Kaaba itself and outside the raised ledge surrounding it, known as the Shadharwan.",
   "tmain_p5_title": "Beginning of Tawaf",
   "tmain_p5_intention_title": "Intention (Niyyah):",
+  "tmain_p5_intention_text": "I perform the Tawaf of Umrah al-Mufradah, seeking nearness to Allah.",
   "tmain_p5_notice_text": "If Wudu becomes invalid before completing the fourth circuit, the Tawaf becomes invalid.\nHowever, if Wudu becomes invalid after completing the fourth circuit, different rulings apply.",
   "tmain_p5_more_info": "I have lost taharah! What Should I Do?\n",
   "tmain_p5_hadath_title": "Specify the Type of Ritual Impurity",
@@ -288,13 +289,5 @@
   "tmain_p12_type_mutawassita": "",
   "tmain_p12_type_kathira": "",
   "tawaf_nisaa_title": "Tawaf al-Nisaa",
-  "namaz_tawaf_nisaa": "Tawaf al-Nisaa Prayer",
-  "tmain_p5_intention_text_self": "من طواف عمره مفرده خودم را انجام می‌دهم، قربةً الی‌الله",
-  "tmain_p5_intention_text_proxy": "من طواف عمره مفرده نیابتی را انجام می‌دهم، قربةً الی‌الله",
-  "np13_intention_self": "نیت کند: «نماز طواف عمره مفرده خودم را انجام می‌دهم، قربهً الی‌الله»",
-  "np13_intention_proxy": "نیت کند: «نماز طواف عمره مفرده نیابتی را انجام می‌دهم، قربهً الی‌الله»",
-  "tawaf_nisaa_intention_text_self": "من طواف نساء خودم را انجام می‌دهم، قربةً الی‌الله",
-  "tawaf_nisaa_intention_text_proxy": "من طواف نساء نیابتی را انجام می‌دهم، قربةً الی‌الله",
-  "tawaf_nisaa_prayer_intention_self": "نیت کند: «نماز طواف نساء خودم را انجام می‌دهم، قربهً الی‌الله»",
-  "tawaf_nisaa_prayer_intention_proxy": "نیت کند: «نماز طواف نساء نیابتی را انجام می‌دهم، قربهً الی‌الله»"
+  "namaz_tawaf_nisaa": "Tawaf al-Nisaa Prayer"
 }
