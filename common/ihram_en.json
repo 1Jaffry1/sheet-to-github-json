@@ -100,5 +100,9 @@
   "ip13_ihram_disliked_title": "Disliked Acts During Ihram",
   "ip13_ihram_disliked_item1": "Sleeping on yellow-coloured bedding or a yellow pillow",
   "ip13_ihram_disliked_item2": "Entering a bathhouse; moreover, it is better—and, based on obligatory precaution, necessary—not to rub the body while bathing.",
-  "ip13_ihram_disliked_item3": "Responding with “Labbayk” when someone calls; as a precaution, it is better to refrain from doing so."
+  "ip13_ihram_disliked_item3": "Responding with “Labbayk” when someone calls; as a precaution, it is better to refrain from doing so.",
+  "ip7_prayer_perform_text_self": "<bullet>Intention: I pray the Ihram prayer for my own Umrah Mufradah, seeking nearness to Allah.",
+  "ip7_prayer_perform_text_proxy": "<bullet>Intention: I pray the Ihram prayer for Umrah Mufradah as a proxy, seeking nearness to Allah.",
+  "ip8_text_item2_self": "“I enter ihram for my own Umrah Mufradah, seeking nearness to Allah.”",
+  "ip8_text_item2_proxy": "“I enter ihram for Umrah Mufradah as a proxy, seeking nearness to Allah.”"
 }
