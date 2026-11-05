@@ -289,12 +289,12 @@
   "tmain_p12_type_kathira": "",
   "tawaf_nisaa_title": "طواف النساء",
   "namaz_tawaf_nisaa": "صلاة طواف النساء",
-  "tmain_p5_intention_text_self": "",
-  "tmain_p5_intention_text_proxy": "",
-  "np13_intention_self": "",
-  "np13_intention_proxy": "",
-  "tawaf_nisaa_intention_text_self": "",
-  "tawaf_nisaa_intention_text_proxy": "",
-  "tawaf_nisaa_prayer_intention_self": "",
-  "tawaf_nisaa_prayer_intention_proxy": ""
+  "tmain_p5_intention_text_self": "أطوف طواف عمرة مفردة عن نفسي قربةً إلى الله",
+  "tmain_p5_intention_text_proxy": "أطوف طواف عمرة مفردة نيابة قربةً إلى الله",
+  "np13_intention_self": "ينوي: «أصلي صلاة طواف عمرة مفردة عن نفسي قربةً إلى الله»",
+  "np13_intention_proxy": "ينوي: «أصلي صلاة طواف عمرة مفردة نيابة قربةً إلى الله»",
+  "tawaf_nisaa_intention_text_self": "أطوف طواف النساء عن نفسي قربةً إلى الله",
+  "tawaf_nisaa_intention_text_proxy": "أطوف طواف النساء نيابة قربةً إلى الله",
+  "tawaf_nisaa_prayer_intention_self": "ينوي: «أصلي صلاة طواف النساء عن نفسي قربةً إلى الله»",
+  "tawaf_nisaa_prayer_intention_proxy": "ينوي: «أصلي صلاة طواف النساء نيابة قربةً إلى الله»"
 }
