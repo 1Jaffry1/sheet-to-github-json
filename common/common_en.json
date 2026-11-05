@@ -27,5 +27,12 @@
   "sai_title": "Sa‘i",
   "ihram_title": "Ihram",
   "namaz_t_title": "Tawaf Prayer",
-  "taqsir_icon_title": "Taqsir"
+  "taqsir_icon_title": "Taqsir",
+  "kaffarah_cart_label": "کفاره",
+  "kaffarah_cart_title": "کفاره",
+  "kaffarah_cart_add_title": "کفاره اضافه کنید",
+  "kaffarah_cart_add": "اضافه کنید",
+  "kaffarah_cart_details_title": "جزئیات (اختیاری)",
+  "kaffarah_cart_datetime": "زمان و تاریخ",
+  "kaffarah_cart_datetime_placeholder": "مثال: 2026-11-05 14:30"
 }

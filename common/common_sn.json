@@ -27,5 +27,12 @@
   "sai_title": "",
   "ihram_title": "",
   "namaz_t_title": "",
-  "taqsir_icon_title": ""
+  "taqsir_icon_title": "",
+  "kaffarah_cart_label": "ڪفارو",
+  "kaffarah_cart_title": "ڪفارو",
+  "kaffarah_cart_add_title": "ڪفارو شامل ڪريو",
+  "kaffarah_cart_add": "شامل ڪريو",
+  "kaffarah_cart_details_title": "تفصيل (اختياري)",
+  "kaffarah_cart_datetime": "وقت ۽ تاريخ",
+  "kaffarah_cart_datetime_placeholder": "مثال: 2026-11-05"
 }
