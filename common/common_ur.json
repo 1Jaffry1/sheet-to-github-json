@@ -28,11 +28,11 @@
   "ihram_title": "احرام",
   "namaz_t_title": "طواف کی نماز",
   "taqsir_icon_title": "تقصیر",
-  "kaffarah_cart_label": "کفاره",
-  "kaffarah_cart_title": "کفاره",
-  "kaffarah_cart_add_title": "کفاره اضافه کنید",
-  "kaffarah_cart_add": "اضافه کنید",
-  "kaffarah_cart_details_title": "جزئیات (اختیاری)",
-  "kaffarah_cart_datetime": "زمان و تاریخ",
+  "kaffarah_cart_label": "کفارہ",
+  "kaffarah_cart_title": "کفارہ",
+  "kaffarah_cart_add_title": "کفارہ شامل کریں",
+  "kaffarah_cart_add": "شامل کریں",
+  "kaffarah_cart_details_title": "تفصیل (اختیاری)",
+  "kaffarah_cart_datetime": "وقت اور تاریخ",
   "kaffarah_cart_datetime_placeholder": "مثال: 2026-11-05 14:30"
 }
