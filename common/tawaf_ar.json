@@ -26,7 +26,6 @@
   "tmain_p4_text_item8": "یعتبر فی الطواف خروج الطائف عن الكعبة وعن الصُفّة التي في أطرافها المسمّاة ب‍ـ(شاذروان)",
   "tmain_p5_title": "",
   "tmain_p5_intention_title": "النیة",
-  "tmain_p5_intention_text": "أؤدی طواف العمرة المفردة قُربةً إلى الله تعالى",
   "tmain_p5_notice_text": "إذا أحدث المحرم أثناء طوافه قبل إتمام الشوط الرابع، فيبطل طوافه\nأما إذا انتقض الوضوء بعد إتمام الشوط الرابع فله أحكام خاصة",
   "tmain_p5_more_info": "انتقضت طهارتي، ماذا أفعل؟",
   "tmain_p5_hadath_title": "حدّد نوع الحدث",
@@ -289,5 +288,13 @@
   "tmain_p12_type_mutawassita": "",
   "tmain_p12_type_kathira": "",
   "tawaf_nisaa_title": "طواف النساء",
-  "namaz_tawaf_nisaa": "صلاة طواف النساء"
+  "namaz_tawaf_nisaa": "صلاة طواف النساء",
+  "tmain_p5_intention_text_self": "I perform tawaf of my own Umrah Mufradah, seeking nearness to Allah",
+  "tmain_p5_intention_text_proxy": "I perform tawaf of Umrah Mufradah as a proxy, seeking nearness to Allah",
+  "np13_intention_self": "Intend: “I pray the tawaf prayer of my own Umrah Mufradah, seeking nearness to Allah”",
+  "np13_intention_proxy": "Intend: “I pray the tawaf prayer of Umrah Mufradah as a proxy, seeking nearness to Allah”",
+  "tawaf_nisaa_intention_text_self": "I perform my own Tawaf al-Nisa, seeking nearness to Allah",
+  "tawaf_nisaa_intention_text_proxy": "I perform Tawaf al-Nisa as a proxy, seeking nearness to Allah",
+  "tawaf_nisaa_prayer_intention_self": "Intend: “I pray the Tawaf al-Nisa prayer for myself, seeking nearness to Allah”",
+  "tawaf_nisaa_prayer_intention_proxy": "Intend: “I pray the Tawaf al-Nisa prayer as a proxy, seeking nearness to Allah”"
 }
