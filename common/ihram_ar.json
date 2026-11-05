@@ -100,8 +100,8 @@
   "ip13_ihram_disliked_item1": "1. النوم على فراش وعلى وسادة صفراء اللون",
   "ip13_ihram_disliked_item2": "2. دخول الحمام؛ والأفضل، بل بناءً على الاحتياط الواجب، أن لا يدلك المحرم جسده في الحمام",
   "ip13_ihram_disliked_item3": "3. إجابة من يناديه بـ \"لبيك\"؛ وبناءً على الاحتياط فالأفضل ترك ذلك",
-  "ip7_prayer_perform_text_self": "<bullet>النية: أصلي صلاة الإحرام لعمرة مفردة عن نفسي قربةً إلى الله.",
-  "ip7_prayer_perform_text_proxy": "<bullet>النية: أصلي صلاة الإحرام لعمرة مفردة نيابة قربةً إلى الله.",
-  "ip8_text_item2_self": "«أُحرم لعمرة مفردة عن نفسي قُرْبَةً إِلَى اللهِ.»",
-  "ip8_text_item2_proxy": "«أُحرم لعمرة مفردة نيابة قُرْبَةً إِلَى اللهِ.»"
+  "ip7_prayer_perform_text_self": "",
+  "ip7_prayer_perform_text_proxy": "",
+  "ip8_text_item2_self": "",
+  "ip8_text_item2_proxy": ""
 }
