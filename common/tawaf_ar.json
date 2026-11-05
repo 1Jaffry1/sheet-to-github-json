@@ -289,12 +289,12 @@
   "tmain_p12_type_kathira": "",
   "tawaf_nisaa_title": "طواف النساء",
   "namaz_tawaf_nisaa": "صلاة طواف النساء",
-  "tmain_p5_intention_text_self": "I perform tawaf of my own Umrah Mufradah, seeking nearness to Allah",
-  "tmain_p5_intention_text_proxy": "I perform tawaf of Umrah Mufradah as a proxy, seeking nearness to Allah",
-  "np13_intention_self": "Intend: “I pray the tawaf prayer of my own Umrah Mufradah, seeking nearness to Allah”",
-  "np13_intention_proxy": "Intend: “I pray the tawaf prayer of Umrah Mufradah as a proxy, seeking nearness to Allah”",
-  "tawaf_nisaa_intention_text_self": "I perform my own Tawaf al-Nisa, seeking nearness to Allah",
-  "tawaf_nisaa_intention_text_proxy": "I perform Tawaf al-Nisa as a proxy, seeking nearness to Allah",
-  "tawaf_nisaa_prayer_intention_self": "Intend: “I pray the Tawaf al-Nisa prayer for myself, seeking nearness to Allah”",
-  "tawaf_nisaa_prayer_intention_proxy": "Intend: “I pray the Tawaf al-Nisa prayer as a proxy, seeking nearness to Allah”"
+  "tmain_p5_intention_text_self": "",
+  "tmain_p5_intention_text_proxy": "",
+  "np13_intention_self": "",
+  "np13_intention_proxy": "",
+  "tawaf_nisaa_intention_text_self": "",
+  "tawaf_nisaa_intention_text_proxy": "",
+  "tawaf_nisaa_prayer_intention_self": "",
+  "tawaf_nisaa_prayer_intention_proxy": ""
 }
