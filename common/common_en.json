@@ -28,11 +28,11 @@
   "ihram_title": "Ihram",
   "namaz_t_title": "Tawaf Prayer",
   "taqsir_icon_title": "Taqsir",
-  "kaffarah_cart_label": "کفاره",
-  "kaffarah_cart_title": "کفاره",
-  "kaffarah_cart_add_title": "کفاره اضافه کنید",
-  "kaffarah_cart_add": "اضافه کنید",
-  "kaffarah_cart_details_title": "جزئیات (اختیاری)",
-  "kaffarah_cart_datetime": "زمان و تاریخ",
-  "kaffarah_cart_datetime_placeholder": "مثال: 2026-11-05 14:30"
+  "kaffarah_cart_label": "Kaffarah",
+  "kaffarah_cart_title": "Kaffarah",
+  "kaffarah_cart_add_title": "Add kaffarah",
+  "kaffarah_cart_add": "Add",
+  "kaffarah_cart_details_title": "Details (optional)",
+  "kaffarah_cart_datetime": "Time and date",
+  "kaffarah_cart_datetime_placeholder": "Example: 2026-11-05 14:30"
 }
