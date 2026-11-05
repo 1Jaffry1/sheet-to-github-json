@@ -22,5 +22,9 @@
   "taqsir_title": "How to Perform Taqsir:",
   "taqsir_intention": "Intention:<br>I perform Taqsir for my own / a proxy Umrah al-Mufradah, seeking nearness to Allah.",
   "taqsir_method": "Then trim some hair from your head, beard, or moustache personally, or have it trimmed by someone who is not in the state of Ihram.",
-  "taqsir_completed_button": "I Have Completed Taqsir."
+  "taqsir_completed_button": "I Have Completed Taqsir.",
+  "halq_intention_self": "Intention: I perform halq for my own Umrah Mufradah, seeking nearness to Allah",
+  "halq_intention_proxy": "Intention: I perform halq for Umrah Mufradah as a proxy, seeking nearness to Allah",
+  "taqsir_intention_self": "Intention: I perform taqsir for my own Umrah Mufradah, seeking nearness to Allah",
+  "taqsir_intention_proxy": "Intention: I perform taqsir for Umrah Mufradah as a proxy, seeking nearness to Allah"
 }
