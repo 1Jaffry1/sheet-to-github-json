@@ -74,5 +74,7 @@
   "sp8_confirm_arrival_marwa": "",
   "sp8_confirm_arrival_safa": "",
   "sp10_return_button": "Return",
-  "sp8_reset_confirm": "Start Sai counting from the beginning?"
+  "sp8_reset_confirm": "Start Sai counting from the beginning?",
+  "sp5_intention_self": "Intention: I perform sa’i of my own Umrah Mufradah, seeking nearness to Allah",
+  "sp5_intention_proxy": "Intention: I perform sa’i of Umrah Mufradah as a proxy, seeking nearness to Allah"
 }
