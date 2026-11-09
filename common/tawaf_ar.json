@@ -26,6 +26,7 @@
   "tmain_p4_text_item8": "یعتبر فی الطواف خروج الطائف عن الكعبة وعن الصُفّة التي في أطرافها المسمّاة ب‍ـ(شاذروان)",
   "tmain_p5_title": "",
   "tmain_p5_intention_title": "النیة",
+  "tmain_p5_intention_text": "أؤدی طواف العمرة المفردة قُربةً إلى الله تعالى",
   "tmain_p5_notice_text": "إذا أحدث المحرم أثناء طوافه قبل إتمام الشوط الرابع، فيبطل طوافه\nأما إذا انتقض الوضوء بعد إتمام الشوط الرابع فله أحكام خاصة",
   "tmain_p5_more_info": "انتقضت طهارتي، ماذا أفعل؟",
   "tmain_p5_hadath_title": "حدّد نوع الحدث",
@@ -288,13 +289,5 @@
   "tmain_p12_type_mutawassita": "",
   "tmain_p12_type_kathira": "",
   "tawaf_nisaa_title": "طواف النساء",
-  "namaz_tawaf_nisaa": "صلاة طواف النساء",
-  "tmain_p5_intention_text_self": "أطوف طواف عمرة مفردة عن نفسي قربةً إلى الله",
-  "tmain_p5_intention_text_proxy": "أطوف طواف عمرة مفردة نيابة قربةً إلى الله",
-  "np13_intention_self": "ينوي: «أصلي صلاة طواف عمرة مفردة عن نفسي قربةً إلى الله»",
-  "np13_intention_proxy": "ينوي: «أصلي صلاة طواف عمرة مفردة نيابة قربةً إلى الله»",
-  "tawaf_nisaa_intention_text_self": "أطوف طواف النساء عن نفسي قربةً إلى الله",
-  "tawaf_nisaa_intention_text_proxy": "أطوف طواف النساء نيابة قربةً إلى الله",
-  "tawaf_nisaa_prayer_intention_self": "ينوي: «أصلي صلاة طواف النساء عن نفسي قربةً إلى الله»",
-  "tawaf_nisaa_prayer_intention_proxy": "ينوي: «أصلي صلاة طواف النساء نيابة قربةً إلى الله»"
+  "namaz_tawaf_nisaa": "صلاة طواف النساء"
 }

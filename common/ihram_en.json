@@ -55,6 +55,7 @@
   "ip7_screen_title": "Wearing the Ihram",
   "ip7_text_item1": "It is recommended to enter into Ihram after the Dhuhr prayer. If that is not possible, do so after any obligatory prayer. If that is also not possible, offer six or two rak‘ahs of a recommended prayer and then enter into Ihram.",
   "ip7_prayer_perform_title": "How to Perform the Recommended Prayer:",
+  "ip7_prayer_perform_text": "Intention:\nI perform the Ihram prayer for my own / a proxy Umrah al-Mufradah, seeking nearness to Allah.",
   "ip7_text_item2": "It is recommended to recite Surah al-Fatihah and Surah al-Ikhlas in the first Rak‘ah, and Surah al-Fatihah and Surah al-Kafirun in the second Rak‘ah.",
   "ip7_text_item3": "After the prayer, say “Alhamdulillah,” praise Allah, and then recite Salawat.",
   "ip10_q1": "Do you have access to water for performing Ghusl?",
@@ -65,6 +66,7 @@
   "ip10_q1_hint": "Perform Ghusl.",
   "ip10_q2_hint": "Enter Ihram while passing through the mosque in this manner.",
   "ip8_text_item1": "It is recommended to state the intention verbally while reciting the Talbiyah.",
+  "ip8_text_item2": "“I enter Ihram for Umrah al-Mufradah / Hajj al-Tamattu‘, seeking nearness to Allah.”",
   "ip8_text_item3": "Talbiyah: Reciting the Talbiyah is obligatory, and repeating it is recommended.\r\nNote: If, for any reason, you are unable to recite it yourself, listen to a recording and repeat after it.",
   "ip8_talbiyah_text_title": "Text of the Talbiyah:",
   "ip8_talbiyah_text1": "لَبَّیكَ الّلهُمَّ لَبَّیكَ، لَبَّیكَ لاشَریكَ لَكَ لَبَّیكَ",
@@ -98,9 +100,5 @@
   "ip13_ihram_disliked_title": "Disliked Acts During Ihram",
   "ip13_ihram_disliked_item1": "Sleeping on yellow-coloured bedding or a yellow pillow",
   "ip13_ihram_disliked_item2": "Entering a bathhouse; moreover, it is better—and, based on obligatory precaution, necessary—not to rub the body while bathing.",
-  "ip13_ihram_disliked_item3": "Responding with “Labbayk” when someone calls; as a precaution, it is better to refrain from doing so.",
-  "ip7_prayer_perform_text_self": "<bullet>Intention: I pray the Ihram prayer for my own Umrah Mufradah, seeking nearness to Allah.",
-  "ip7_prayer_perform_text_proxy": "<bullet>Intention: I pray the Ihram prayer for Umrah Mufradah as a proxy, seeking nearness to Allah.",
-  "ip8_text_item2_self": "“I enter ihram for my own Umrah Mufradah, seeking nearness to Allah.”",
-  "ip8_text_item2_proxy": "“I enter ihram for Umrah Mufradah as a proxy, seeking nearness to Allah.”"
+  "ip13_ihram_disliked_item3": "Responding with “Labbayk” when someone calls; as a precaution, it is better to refrain from doing so."
 }
