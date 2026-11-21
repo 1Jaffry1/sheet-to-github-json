@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-21T07:02:34.018Z",
+  "version": "2026-11-21T08:06:10.463Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -25,10 +25,12 @@
       "prefix": "turook",
       "folder": "common",
       "langs": [
-        "ur"
+        "ur",
+        "changed"
       ],
       "files": [
-        "common/turook_ur.json"
+        "common/turook_ur.json",
+        "common/turook_changed.json"
       ]
     },
     "Copy of turook": {
