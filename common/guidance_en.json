@@ -32,6 +32,7 @@
   "at_mighat": "At the Miqat",
   "before_mighat": "Before the Miqat",
   "boundary_mighat": "At a point parallel to the Miqat",
+  "boundary_mighat_help": "",
   "mighat_selector_title": "Select your Miqat:",
   "guide": "Guide",
   "miqat_masjid_shajarah": "Dhul-Hulayfah (Masjid al-Shajarah)",
