@@ -296,5 +296,10 @@
   "tawaf_nisaa_intention_text_self": "أطوفُ طواف النساء عن نفسي قربةً إلى الله",
   "tawaf_nisaa_intention_text_proxy": "أطوف طواف النساء نيابة قربةً إلى الله",
   "tawaf_nisaa_prayer_intention_self": "ينوي: «أصلي صلاة طواف النساء عن نفسي قربةً إلى الله»",
-  "tawaf_nisaa_prayer_intention_proxy": "ينوي: «أصلي صلاة طواف النساء نيابة قربةً إلى الله»"
+  "tawaf_nisaa_prayer_intention_proxy": "ينوي: «أصلي صلاة طواف النساء نيابة قربةً إلى الله»",
+  "tmain_p19_optional_intro": "",
+  "tmain_p19_optional_q_stop": "",
+  "tmain_p19_optional_q_ground": "",
+  "tmain_p19_optional_cannot": "",
+  "tmain_p19_previous": ""
 }

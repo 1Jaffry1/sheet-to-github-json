@@ -296,5 +296,10 @@
   "tawaf_nisaa_intention_text_self": "I perform my own Tawaf al-Nisa, seeking nearness to Allah",
   "tawaf_nisaa_intention_text_proxy": "I perform Tawaf al-Nisa as a proxy, seeking nearness to Allah",
   "tawaf_nisaa_prayer_intention_self": "Intend: “I pray the Tawaf al-Nisa prayer for myself, seeking nearness to Allah”",
-  "tawaf_nisaa_prayer_intention_proxy": "Intend: “I pray the Tawaf al-Nisa prayer as a proxy, seeking nearness to Allah”"
+  "tawaf_nisaa_prayer_intention_proxy": "Intend: “I pray the Tawaf al-Nisa prayer as a proxy, seeking nearness to Allah”",
+  "tmain_p19_optional_intro": "",
+  "tmain_p19_optional_q_stop": "",
+  "tmain_p19_optional_q_ground": "",
+  "tmain_p19_optional_cannot": "",
+  "tmain_p19_previous": ""
 }
