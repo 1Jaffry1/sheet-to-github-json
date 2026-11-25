@@ -18,7 +18,7 @@
   "font_size_large": "وڏو",
   "font_size_xlarge": "تمام وڏو",
   "header_layout_setting": "هيڊر جي جاءِ",
-  "header_layout_flush": "اسٽيٽس بار جي ڀرسان",
+  "header_layout_flush": "ناچ / اسٽيٽس بار جي ڀرسان",
   "header_layout_below_safe_area": "اسڪرين جي مٿئين محفوظ حصي هيٺان",
   "appearance_setting": "ظاهري ڏيک",
   "appearance_light": "هلڪو",
@@ -27,5 +27,5 @@
   "settings_section_profile": "پروفائل",
   "settings_section_display": "ڊسپلي",
   "settings_section_home": "مُک صفحو",
-  "settings_section_pilgrim": "زائر بابت معلومات"
+  "settings_section_pilgrim": "زائر جي ڄاڻ"
 }
