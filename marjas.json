@@ -3,20 +3,20 @@
     "name": "Ayatollah Khamenei",
     "image": "https://raw.githubusercontent.com/1Jaffry1/sheet-to-github-json/master/assets_files/khamenei_final_Small.png",
     "en": "Ayatollah Khamenei",
-    "fa": "آیت اللہ خامنه‌ای",
-    "ar": "آیة اللہ الخامنئي",
+    "fa": "آیت اللہ خامنه‌ای (دام ظلہ العالی)",
+    "ar": "آیة اللہ الخامنئي (دام ظلہ العالی)",
     "ur": "آیت اللہ خامنہ ای (رحمہ اللہ)",
-    "sn": "آيت الله خامنه اي",
+    "sn": "آيت الله خامنه اي (رحمہ اللہ)",
     "key": "khamenei"
   },
   {
     "name": "Ayatollah Sistani",
     "image": "https://raw.githubusercontent.com/1Jaffry1/sheet-to-github-json/master/assets_files/sistani_final_Small.png",
     "en": "Ayatollah Sistani",
-    "fa": "آیت اللہ سیستانی",
+    "fa": "آیت اللہ سیستانی (دام ظلہ العالی)",
     "ar": "آیة اللہ السیستاني (دام ظلہ العالی)",
     "ur": "آیت اللہ سیستانی (دام ظلہ العالی)",
-    "sn": "آيت الله سيستاني",
+    "sn": "آيت الله سيستاني (دام ظلہ العالی)",
     "key": "sistani"
   }
 ]
