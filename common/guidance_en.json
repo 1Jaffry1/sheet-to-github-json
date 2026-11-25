@@ -64,7 +64,7 @@
   "nadhr_method_item1": "Without specifying a location",
   "nadhr_method_item2": "By specifying a particular location",
   "without_place_box_text": "Based on this formula, you may enter Ihram from any place you choose before the Miqat or at a point parallel to the Miqat.\nFormula:\nلِلّٰهِ عَلَيَّ أَنْ أُحْرِمَ قَبْلَ الْمِيقَاتِ\nTranslation:\nFor the sake of Allah, it is incumbent upon me to enter Ihram before the Miqat.",
-  "with_place_box_text": "The specified place must be before the Miqat or at a point parallel to the Miqat.\nFormula:\nلِلّٰهِ عَلَيَّ أَنْ أُحْرِمَ مِنْ --- (for example: Qom) \nTranslation:\nFor the sake of Allah, it is incumbent upon me to enter Ihram from --- (for example: Qom).",
+  "with_place_box_text": "The specified location must be before the miqat or the point aligned with it.\nVow formula:\nلِلَّهِ عَلَيَّ أَنْ أُحْرِمَ مِنْ --- (e.g., Lahore)",
   "nadr_notice_text": "Making a vow does not itself put you in the state of Ihram.<br>Wait until you reach the place specified in your vow, and enter Ihram from there.",
   "nadr_fulfilled_text": "I Have Made the Vow",
   "jeddah": "Jeddah",
