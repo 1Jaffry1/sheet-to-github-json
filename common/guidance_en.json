@@ -32,7 +32,7 @@
   "at_mighat": "At the Miqat",
   "before_mighat": "Before the Miqat",
   "boundary_mighat": "At a point parallel to the Miqat",
-  "boundary_mighat_help": "",
+  "boundary_mighat_help": "A person is aligned with the miqat if they stand at the point where two lines meet at a right angle (90°), with one line passing through the Kaaba and the other through the miqat. Mathematical precision is unnecessary. It is enough that the location is generally considered to be aligned with the miqat.",
   "mighat_selector_title": "Select your Miqat:",
   "guide": "Guide",
   "miqat_masjid_shajarah": "Dhul-Hulayfah (Masjid al-Shajarah)",
