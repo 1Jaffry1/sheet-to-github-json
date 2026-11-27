@@ -42,5 +42,5 @@
   "confirm_yes": "Yes",
   "confirm_no": "No",
   "login_non_baligh_notice": "",
-  "login_khamenei_notice": ""
+  "login_khamenei_notice": "The app does not support non-baligh users at this time."
 }
