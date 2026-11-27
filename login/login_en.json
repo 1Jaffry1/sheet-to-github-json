@@ -41,5 +41,6 @@
   "confirm_proxy": "Other (as proxy)",
   "confirm_yes": "Yes",
   "confirm_no": "No",
-  "login_non_baligh_notice": ""
+  "login_non_baligh_notice": "",
+  "login_khamenei_notice": ""
 }
