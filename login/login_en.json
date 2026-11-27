@@ -41,6 +41,6 @@
   "confirm_proxy": "Other (as proxy)",
   "confirm_yes": "Yes",
   "confirm_no": "No",
-  "login_non_baligh_notice": "",
+  "login_non_baligh_notice": "The app does not support Ayatollah Khamenei’s rulings at this time.",
   "login_khamenei_notice": "The app does not support non-baligh users at this time."
 }
