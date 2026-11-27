@@ -40,5 +40,6 @@
   "confirm_personal": "لنفسه",
   "confirm_proxy": "نيابةً عن الغير",
   "confirm_yes": "نعم",
-  "confirm_no": "لا"
+  "confirm_no": "لا",
+  "login_non_baligh_notice": ""
 }

@@ -40,5 +40,6 @@
   "confirm_personal": "خود",
   "confirm_proxy": "نیابتی",
   "confirm_yes": "بلہ",
-  "confirm_no": "نہ"
+  "confirm_no": "نہ",
+  "login_non_baligh_notice": ""
 }

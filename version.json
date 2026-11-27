@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-25T10:32:30.832Z",
+  "version": "2026-11-27T14:25:33.137Z",
   "sheets": {
     "seestani": {
       "prefix": "seestani",
@@ -29,6 +29,26 @@
       ],
       "files": [
         "common/turook_ur.json"
+      ]
+    },
+    "login": {
+      "prefix": "login",
+      "folder": "login",
+      "langs": [
+        "en",
+        "ur",
+        "fa",
+        "ar",
+        "sn",
+        "notes"
+      ],
+      "files": [
+        "login/login_en.json",
+        "login/login_ur.json",
+        "login/login_fa.json",
+        "login/login_ar.json",
+        "login/login_sn.json",
+        "login/login_notes.json"
       ]
     },
     "Copy of turook": {
@@ -143,26 +163,6 @@
         "common/taqsir_fa.json",
         "common/taqsir_ur.json",
         "common/taqsir_ar.json"
-      ]
-    },
-    "login": {
-      "prefix": "login",
-      "folder": "login",
-      "langs": [
-        "en",
-        "ur",
-        "fa",
-        "ar",
-        "sn",
-        "notes"
-      ],
-      "files": [
-        "login/login_en.json",
-        "login/login_ur.json",
-        "login/login_fa.json",
-        "login/login_ar.json",
-        "login/login_sn.json",
-        "login/login_notes.json"
       ]
     },
     "tawaf": {

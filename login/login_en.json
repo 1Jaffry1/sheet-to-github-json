@@ -40,5 +40,6 @@
   "confirm_personal": "Self",
   "confirm_proxy": "Other (as proxy)",
   "confirm_yes": "Yes",
-  "confirm_no": "No"
+  "confirm_no": "No",
+  "login_non_baligh_notice": ""
 }
